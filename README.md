@@ -26,7 +26,7 @@ docker compose down
 
 # Структура на проекта
 
-/
+
 ├── docker-compose.yml       # Конфигурация за двата контейнера (web и db)
 ├── Dockerfile               # Dockerfile за уеб услугата (PHP + Apache)
 ├── php/
